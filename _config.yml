@@ -1,3 +1,4 @@
 name: David Collins, 4rch3r23, cyberwarfairy
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minimalist
