@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "David Collins, 4rch3r, Begins His Jouney"
-date: 2014-04-30
+date: 2019-09-02
 ---
-
-Very sceptical of write ups for bloggers.  We'll see how this one fairs.
+# Memory Analysis
+##### A deep dive into memory. 
+* Tools
+* Use Cases
+* How To
